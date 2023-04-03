@@ -1,0 +1,12 @@
+.pagination {
+  padding: 10px;
+
+  display: flex;
+  justify-content: center;
+}
+
+.pagination > span{
+  padding: 15px 20px;
+  border: 1px solid gray;
+  cursor: pointer;
+}
